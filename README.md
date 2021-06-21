@@ -30,6 +30,24 @@ Jobfull is an employent site where users can post open positions or apply to pos
 <img style="margin: 10px" src="https://img.icons8.com/color/48/000000/postgreesql.png" alt="PostgreSQL" height="45" />
 
 ## </div>
+
+## Frontend Installation
+
+### In the frontend directory, you can run:
+
+
+### `npm install`
+
+### &
+### `npm start`
+
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+
+The page will reload if you make edits.\
+You will also see any lint errors in the console.
+<hr><br>
+
 ## Backend Installation
 
 ### In the backend directory, open `pom.xml` as project file in preferred Java IDE
