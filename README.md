@@ -66,3 +66,6 @@ Jobfull is an employent site where users can post open positions or apply to pos
 </div>  
 
 ![Jobfull](https://github.com/Dana-Mst/JobFull/blob/main/screenshots/121506196-2da22d00-c9ec-11eb-898f-a72df3cee6f4.png)
+![Jobfull](https://github.com/Dana-Mst/JobFull/blob/main/screenshots/121506214-30048700-c9ec-11eb-8a46-d11908125cbb.png)
+![Jobfull](https://github.com/Dana-Mst/JobFull/blob/main/screenshots/121506239-372b9500-c9ec-11eb-918e-1ce87a574676.png)
+![Jobfull](https://github.com/Dana-Mst/JobFull/blob/main/screenshots/121506246-38f55880-c9ec-11eb-9ef4-2d0eea920636.png)
