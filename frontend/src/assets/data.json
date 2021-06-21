@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "company": "Photosnap",
+    "logo": "./images/photosnap.svg",
+    "isNew": true,
+    "featured": true,
+    "position": "Senior Frontend Developer",
+    "role": "Frontend",
+    "level": "Senior",
+    "postedAt": "1d ago",
+    "contract": "Full Time",
+    "location": "Bucharest",
+    "languages": ["HTML", "CSS", "JavaScript"],
+    "tools": [],
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+  },
+  {
+    "id": 2,
+    "company": "Manage",
+    "logo": "./images/manage.svg",
+    "isNew": true,
+    "featured": true,
+    "position": "Fullstack Developer",
+    "role": "Fullstack",
+    "level": "Midweight",
+    "postedAt": "1d ago",
+    "contract": "Part Time",
+    "location": "Remote",
+    "languages": ["Python"],
+    "tools": ["React"],
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+  },
+  {
+    "id": 3,
+    "company": "Account",
+    "logo": "./images/account.svg",
+    "isNew": true,
+    "featured": false,
+    "position": "Junior Backend Developer",
+    "role": "Backend",
+    "level": "Junior",
+    "postedAt": "2d ago",
+    "contract": "Part Time",
+    "location": "London",
+    "languages": ["JavaScript"],
+    "tools": ["React", "Sass"],
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+  },
+  {
+    "id": 4,
+    "company": "MyHome",
+    "logo": "./images/myhome.svg",
+    "isNew": false,
+    "featured": false,
+    "position": "Junior Frontend Developer",
+    "role": "Frontend",
+    "level": "Junior",
+    "postedAt": "5d ago",
+    "contract": "Contract",
+    "location": "Bucharest",
+    "languages": ["CSS", "JavaScript"],
+    "tools": [],
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+  },
+  {
+    "id": 5,
+    "company": "Loop Studios",
+    "logo": "./images/loop-studios.svg",
+    "isNew": false,
+    "featured": false,
+    "position": "Software Engineer",
+    "role": "Fullstack",
+    "level": "Midweight",
+    "postedAt": "1w ago",
+    "contract": "Full Time",
+    "location": "Worldwide",
+    "languages": ["JavaScript"],
+    "tools": ["Ruby", "Sass"],
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+  },
+  {
+    "id": 6,
+    "company": "FaceIt",
+    "logo": "./images/faceit.svg",
+    "isNew": false,
+    "featured": false,
+    "position": "Junior Backend Developer",
+    "role": "Backend",
+    "level": "Junior",
+    "postedAt": "2w ago",
+    "contract": "Full Time",
+    "location": "Cluj",
+    "languages": ["Ruby"],
+    "tools": ["RoR"],
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+  },
+  {
+    "id": 7,
+    "company": "Shortly",
+    "logo": "./images/shortly.svg",
+    "isNew": false,
+    "featured": false,
+    "position": "Junior Developer",
+    "role": "Frontend",
+    "level": "Junior",
+    "postedAt": "2w ago",
+    "contract": "Full Time",
+    "location": "Worldwide",
+    "languages": ["HTML", "JavaScript"],
+    "tools": ["Sass"],
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+  },
+  {
+    "id": 8,
+    "company": "Insure",
+    "logo": "./images/insure.svg",
+    "isNew": false,
+    "featured": false,
+    "position": "Junior Frontend Developer",
+    "role": "Frontend",
+    "level": "Junior",
+    "postedAt": "2w ago",
+    "contract": "Full Time",
+    "location": "London",
+    "languages": ["JavaScript"],
+    "tools": ["Vue", "Sass"],
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+  },
+  {
+    "id": 9,
+    "company": "Eyecam Co.",
+    "logo": "./images/eyecam-co.svg",
+    "isNew": false,
+    "featured": false,
+    "position": "Full Stack Engineer",
+    "role": "Fullstack",
+    "level": "Midweight",
+    "postedAt": "3w ago",
+    "contract": "Full Time",
+    "location": "Worldwide",
+    "languages": ["JavaScript", "Python"],
+    "tools": ["Django"],
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+  },
+  {
+    "id": 10,
+    "company": "The Air Filter Company",
+    "logo": "./images/the-air-filter-company.svg",
+    "isNew": false,
+    "featured": false,
+    "position": "Front-end Dev",
+    "role": "Frontend",
+    "level": "Junior",
+    "postedAt": "1mo ago",
+    "contract": "Part Time",
+    "location": "Bucharest",
+    "languages": ["JavaScript"],
+    "tools": ["React", "Sass"],
+    "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+  }
+]

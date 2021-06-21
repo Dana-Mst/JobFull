@@ -1,0 +1,92 @@
+[
+    {
+        "id": 1,
+        "company": "Photosnap",
+        "logo": "./images/photosnap.svg",
+        "location": "Bucharest",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+    },
+    {
+        "id": 2,
+        "company": "Manage",
+        "logo": "./images/manage.svg",
+        "location": "Remote",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+
+    },
+    {
+        "id": 3,
+        "company": "Account",
+        "logo": "./images/account.svg",
+        "location": "London",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+
+    },
+    {
+        "id": 4,
+        "company": "MyHome",
+        "logo": "./images/myhome.svg",
+        "location": "Bucharest",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+
+    },
+    {
+        "id": 5,
+        "company": "Loop Studios",
+        "logo": "./images/loop-studios.svg",
+        "location": "Worldwide",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+        
+    },
+    {
+        "id": 6,
+        "company": "FaceIt",
+        "logo": "./images/faceit.svg",
+        "location": "Cluj",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+
+    },
+    {
+        "id": 7,
+        "company": "Shortly",
+        "logo": "./images/shortly.svg",
+        "location": "Worldwide",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+
+    },
+    {
+        "id": 8,
+        "company": "Insure",
+        "logo": "./images/insure.svg",
+        "location": "London",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+    
+    },
+    {
+        "id": 9,
+        "company": "Eyecam Co.",
+        "logo": "./images/eyecam-co.svg",
+        "location": "Worldwide",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+    
+    },
+    {
+        "id": 10,
+        "company": "The Air Filter Company",
+        "logo": "./images/the-air-filter-company.svg",
+        "location": "Bucharest",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus viverra lobortis feugiat. Curabitur a dui tellus. Vivamus magna nisi, consequat at cursus et, congue eu lectus. Aliquam vehicula urna sed consequat sagittis. Quisque pellentesque ex nec elit aliquam, at tincidunt tortor auctor. Aliquam porttitor lacus eget eleifend pretium. Aenean at rutrum mauris. Sed ullamcorper congue augue ut volutpat. Aliquam libero mauris, tempor eu porttitor vitae, rutrum a arcu. Maecenas vitae porttitor quam, sagittis porta mi."
+
+        
+    }
+      
+      
+]
